@@ -1,2 +1,2 @@
 # Competitive-Coding
-Codes for competitive coding
+Codes and books for competitive coding
