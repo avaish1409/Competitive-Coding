@@ -1,6 +1,3 @@
-# indexes of int adding to a target
-# https://leetcode.com/problems/two-sum/
-
 class Solution:
     def twoSum(self, nums, target):
         res = []
