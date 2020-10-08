@@ -1,8 +1,6 @@
 # Competitive-Coding
 Codes and books for competitive coding
 
-You may refer to the following index files to jump to the solution of desired question:
-
 ## Problems solved
 <details>
 <summary>Leetcode</summary>
