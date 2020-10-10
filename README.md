@@ -11,6 +11,11 @@ Codes and books for competitive coding
     <li><a href='https://github.com/avaish1409/Competitive-Coding/blob/master/leetcode/python/1_twoSum.py'>1. Add two numbers</a></li>
     <li><a href='https://github.com/avaish1409/Competitive-Coding/blob/master/leetcode/python/2_addTwoNumbers.py'>2. Closest Sum</a></li>
     <li><a href='https://github.com/avaish1409/Competitive-Coding/blob/master/leetcode/python/3_longestSubstringWithoutRepeatingCharacters.py'>3. Longest Substring Without Repeating Characters</a></li>
+    <li><a href='https://github.com/avaish1409/Competitive-Coding/blob/master/leetcode/python/5_longestPalindromicSubstring.py'>5. Longest Palindromic Substring</a></li>
+    <li><a href='https://github.com/avaish1409/Competitive-Coding/blob/master/leetcode/python/7_reverseInteger.py'>7. Reverse Integer</a></li>
+    <li><a href='https://github.com/avaish1409/Competitive-Coding/blob/master/leetcode/python/8_stringToInteger.py'>8. String To Integer</a></li>
+    <li><a href='https://github.com/avaish1409/Competitive-Coding/blob/master/leetcode/python/9_palindromeNumber.py'>9. Palindrome Number</a></li>
+    <li><a href='https://github.com/avaish1409/Competitive-Coding/blob/master/leetcode/python/11_containerWithMostWater.py'>11. Container With Most Water</a></li>
   </ul>
 </details>
 
