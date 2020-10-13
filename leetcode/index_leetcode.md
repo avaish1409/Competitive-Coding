@@ -10,3 +10,6 @@ The problem serial number and name is as per that on [leetcode practice problems
 - [8. String To Integer](https://github.com/avaish1409/Competitive-Coding/blob/master/leetcode/python/8_stringToInteger.py)
 - [9. Palindrome Number](https://github.com/avaish1409/Competitive-Coding/blob/master/leetcode/python/9_palindromeNumber.py)
 - [11. Container With Most Water](https://github.com/avaish1409/Competitive-Coding/blob/master/leetcode/python/11_containerWithMostWater.py)
+- [12. Integer To Roman](https://github.com/avaish1409/Competitive-Coding/blob/master/leetcode/python/12_integerToRoman.py)
+- [13. Roman To Integer](https://github.com/avaish1409/Competitive-Coding/blob/master/leetcode/python/13_romanToInteger.py)
+- [14. Longest Common Prefix](https://github.com/avaish1409/Competitive-Coding/blob/master/leetcode/python/14_longestCommonPrefix.py)
