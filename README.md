@@ -16,6 +16,9 @@ Codes and books for competitive coding
     <li><a href='https://github.com/avaish1409/Competitive-Coding/blob/master/leetcode/python/8_stringToInteger.py'>8. String To Integer</a></li>
     <li><a href='https://github.com/avaish1409/Competitive-Coding/blob/master/leetcode/python/9_palindromeNumber.py'>9. Palindrome Number</a></li>
     <li><a href='https://github.com/avaish1409/Competitive-Coding/blob/master/leetcode/python/11_containerWithMostWater.py'>11. Container With Most Water</a></li>
+    <li><a href='https://github.com/avaish1409/Competitive-Coding/blob/master/leetcode/python/12_integerToRoman.py'>12. Integer To Roman</a></li>
+    <li><a href='https://github.com/avaish1409/Competitive-Coding/blob/master/leetcode/python/13_romanToInteger.py'>13. Roman To Integer</a></li>
+    <li><a href='https://github.com/avaish1409/Competitive-Coding/blob/master/leetcode/python/14_longestCommonPrefix.py'>14. Longest Common Prefix</a></li>
   </ul>
 </details>
 
